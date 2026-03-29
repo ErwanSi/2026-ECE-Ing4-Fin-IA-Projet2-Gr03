@@ -144,8 +144,8 @@ Full principled causal inference following the PyWhy framework:
 
 ```bash
 # Clone the repository
-git clone <repo-url>
-cd groupe-03-causal-asset-pricing
+git clone https://github.com/ErwanSi/2026-ECE-Ing4-Fin-IA-Projet2-Gr03.git
+cd groupe-03-causal-ML-asset-pricing
 
 # Create virtual environment
 python -m venv venv
@@ -341,10 +341,8 @@ groupe-03-causal-asset-pricing/
 
 | Role | Member | Responsibilities |
 |------|--------|-----------------|
-| Lead Developer | — | Architecture, pipeline, DML |
-| Data Engineer | — | Data generation, preprocessing |
-| ML Engineer | — | Causal Forest, sensitivity |
-| Visualization | — | Plots, slides, documentation |
+| Erwan Simon | — | Architecture, pipeline, DML,Causal Forest, sensitivity |
+| Hamza Ouadoudi | — | Data generation, preprocessing, Plots, slides, documentation |
 
 ### Git Workflow
 
@@ -355,4 +353,4 @@ groupe-03-causal-asset-pricing/
 
 ---
 
-*Project developed for the Causal ML for Asset Pricing module (G.1) — École d'ingénieur / Master Data Science*
+
